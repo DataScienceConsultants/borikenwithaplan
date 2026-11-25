@@ -3,7 +3,7 @@ layout: default
 title: About Me
 permalink: /about/
 lang: en
-description: The story behind Boriken with a Plan.
+description: The story behind Borikén with a Plan.
 ---
 <div class="prose" markdown="1">
 
@@ -17,7 +17,7 @@ The decision to return was something I planned for. I was fortunate to have opti
 
 There's a lot I want to explore here, from the everyday pleasures of living on the island to the practical decisions involved in moving back. Some days that might mean sharing a place I visited. Other days it might mean talking about something that frustrated me or made me reconsider an assumption.
 
-Boriken with a Plan grew out of From Puerto Rico, with Love, a space for staying connected to Puerto Rico wherever we happen to live. This time, I'm writing from the island itself.
+Borikén with a Plan grew out of From Puerto Rico, with Love, a space for staying connected to Puerto Rico wherever we happen to live. This time, I'm writing from the island itself.
 
 Thanks for being here.
 
