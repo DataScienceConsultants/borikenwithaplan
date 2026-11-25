@@ -2,5 +2,24 @@
 layout: default
 title: Inicio
 lang: es
+description: Historias sobre regresar a Puerto Rico después de casi dos décadas fuera y la vida en la isla.
 ---
-<section class="hero"><span class="eyebrow">Un diario personal · Puerto Rico</span><h1>De vuelta en Puerto Rico</h1><p>Después de casi 19 años fuera de Puerto Rico, regresé a la isla. Estoy redescubriendo las cosas que extrañaba, adaptándome a vivir aquí y reconociendo el privilegio que hizo posible mi regreso.</p><p>Esta es mi experiencia, no una promesa de que todos vivirán Puerto Rico de la misma manera.</p><a class="button" href="{{ '/es/about/' | relative_url }}">Sobre este diario</a></section><section id="journal"><h2>Desde la isla</h2><div class="cards">{% assign entries = site.posts | where: "lang", "es" %}{% for post in entries %}<article class="card"><h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3><p>{{ post.excerpt | strip_html | truncate: 180 }}</p></article>{% else %}<p>Próximamente, nuevas historias.</p>{% endfor %}</div></section>
+<section class="hero">
+  <span class="eyebrow">Puerto Rico · Desde diciembre de 2025</span>
+  <h1>¿Y qué pasa cuando por fin regresas?</h1>
+  <p>Durante casi 19 años, Puerto Rico fue un lugar al que regresaba de visita. En diciembre de 2025, volvió a ser mi hogar.</p>
+  <p>Ahora puedo disfrutar de esas cosas que tanto extrañaba desde lejos: la comida, la música, nuestras expresiones y la libertad de pasar una tarde cualquiera en un lugar al que antes tenía que viajar en avión. Pero regresar implica mucho más que comprar un pasaje de ida.</p>
+  <p>Por aquí compartiré los lugares que visito, las cosas que descubro y lo que implica volver a establecerme en la isla después de tantos años fuera.</p>
+  <a class="button" href="{{ '/es/about/' | relative_url }}">Un poco sobre mí</a>
+</section>
+<section id="journal" class="journal-section">
+  <h2>Desde mi diario</h2>
+  {% assign entries = site.posts | where: "lang", "es" %}
+  <div class="cards">
+  {% for post in entries limit: 6 %}
+  <article class="card"><h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3><p>{{ post.excerpt | strip_html | truncate: 200 }}</p><a href="{{ post.url | relative_url }}">Seguir leyendo &rarr;</a></article>
+  {% else %}
+  <article class="card"><span class="eyebrow">Próximamente</span><h3>Casi un año de vuelta en Puerto Rico</h3><p>En diciembre se cumple un año de mi regreso. Me parece un buen momento para hablar de la decisión que me trajo hasta aquí y de todo lo que ha pasado desde entonces.</p></article>
+  {% endfor %}
+  </div>
+</section>
