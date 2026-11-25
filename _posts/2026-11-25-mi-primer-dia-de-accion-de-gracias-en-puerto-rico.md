@@ -3,36 +3,34 @@ title: Mi primer Día de Acción de Gracias de vuelta en Puerto Rico
 layout: post
 lang: es
 date: 2026-11-25
-description: Después de casi 19 años fuera, celebro mi primer Día de Acción de Gracias en Puerto Rico junto a nuestras familias.
+description: Después de casi 19 años fuera de la isla, vuelvo a celebrar Acción de Gracias en Puerto Rico, esta vez junto a nuestras dos familias.
 ---
-Por estas mismas fechas, hace un año, mi vida era completamente distinta.
+¡Qué distinta era mi vida para estas fechas hace un año!
 
-Después de casi 19 años viviendo fuera de Puerto Rico, por fin celebraré mi primer Día de Acción de Gracias en la isla desde que me fui. Y si regresar ya era motivo de alegría, este año tengo una razón más para celebrarlo: por primera vez, compartiré este día tanto con mi familia como con la de mi esposo.
+Desde que me fui de Puerto Rico en enero de 2007, no había vuelto a celebrar Acción de Gracias en la isla. Mañana, después de casi 19 años, tendré la oportunidad de hacerlo. Y lo más especial es que, por primera vez, podré compartir esta celebración con mi familia y la de mi esposo.
 
-Originalmente, había planificado estar de vuelta en Puerto Rico para Acción de Gracias del año pasado. Sin embargo, nos invitaron al cumpleaños de un familiar en Colombia y decidimos aprovechar la oportunidad de hacer ese viaje antes de mudarnos. Nuestro regreso tendría que esperar hasta diciembre.
+La idea era haber regresado para Acción de Gracias del año pasado, pero nos invitaron a un cumpleaños familiar en Colombia. Decidimos hacer el viaje y dejar la mudanza para diciembre.
 
 {% assign birthday_photo = site.static_files | where: "path", "/assets/images/thanksgiving-colombia.jpg" | first %}
 {% if birthday_photo %}
 <figure style="max-width:480px;margin:2rem auto;text-align:center"><img src="{{ birthday_photo.path | relative_url }}" alt="Celebrando un cumpleaños en familia en Colombia, noviembre de 2025, a pocas semanas de mudarnos a Puerto Rico." style="width:100%;height:auto;display:block" loading="lazy"><figcaption style="font-size:.85rem;color:var(--muted);margin-top:.5rem">Celebrando un cumpleaños en familia en Colombia, noviembre de 2025, a pocas semanas de mudarnos a Puerto Rico.</figcaption></figure>
 {% endif %}
 
-Las semanas que siguieron fueron de las más agotadoras de toda la mudanza.
+Lo que nos esperaba después del viaje era todo un reto. Había que dejar la casa lista, coordinar el recogido de nuestras pertenencias con la compañía que las llevaría a Puerto Rico y emprender un largo viaje por carretera desde Arizona hasta Miami.
 
-Mudarnos de Arizona a Puerto Rico no era cuestión de hacer unas maletas y montarnos en un avión. Mientras la compañía de transporte recogía nuestras pertenencias para enviarlas a la isla, todavía nos quedaba organizar nuestra salida y recorrer buena parte de Estados Unidos, desde Arizona hasta Miami.
+Aunque teníamos que enviar nuestro carro a Puerto Rico, fue Diamond, nuestra perrita, quien terminó dictando nuestra ruta. Por las restricciones para viajar con ella, nos tocó hacer todo ese recorrido hasta Miami para poder tomar un vuelo juntos hacia la isla.
 
-Teníamos que enviar nuestro carro a Puerto Rico, pero la verdadera razón por la que decidimos hacer ese recorrido fue Diamond, nuestra perrita. Por las restricciones que enfrentábamos para viajar con ella, Miami era nuestra opción para poder volar juntos a la isla.
+Entre los preparativos, las despedidas y todo lo que conlleva una mudanza como esta, apenas había tiempo para descansar. Tenía muchas ganas de regresar, pero también estaba agotada. Finalmente, el 13 de diciembre de 2025, llegué a Puerto Rico.
 
-Entre cajas, trámites y decisiones, los días parecían no dar abasto. Por mucha ilusión que me hiciera regresar, no dejaba de sentir el agotamiento de todo lo que implicaba la mudanza. Finalmente, el 13 de diciembre de 2025, regresé a Puerto Rico.
+Y aquí estoy, casi un año después, haciendo planes para celebrar Acción de Gracias con nuestras familias. ¡Qué diferencia!
 
-Hoy, casi un año después, en lugar de estar pendiente de los envíos, empacando cajas o resolviendo cómo llegar a la isla, me preparo para compartir Acción de Gracias con nuestras familias.
+Durante los años que viví fuera de la isla, compartir con mi familia requería cierta planificación. Había que cuadrar las vacaciones, comprar los pasajes y tratar de aprovechar al máximo el tiempo que teníamos juntos, porque siempre llegaba el momento de volver a irme.
 
-Durante todos esos años que viví fuera, compartir con mi familia significaba muchas veces organizar mis vacaciones alrededor de los días que podía pasar en Puerto Rico, comprar pasajes y tratar de aprovechar cada momento antes de tener que irme nuevamente.
+Ahora, algo tan sencillo como reunirnos en familia tiene un significado distinto para mí. Ya no tengo que esperar a mis próximas vacaciones ni comprar un pasaje para poder compartir con ellos.
 
-Ahora, para reunirnos, ya no tengo que montarme en un avión ni pedir días libres para viajar. Quizás para quien siempre ha vivido cerca de su familia eso sea algo cotidiano. Para mí, tiene otro significado.
+Sé que muchos boricuas que viven fuera de la isla quisieran tener esa misma oportunidad. A veces, el costo de los pasajes o las responsabilidades del trabajo no les permiten venir, por más ganas que tengan de estar con los suyos. Y regresar a vivir a Puerto Rico implica decisiones económicas y profesionales que no todo el mundo está en posición de tomar.
 
-También soy consciente del privilegio que supone poder estar aquí. Hay muchos boricuas que quisieran pasar estas fechas junto a sus seres queridos, pero para quienes el costo de un pasaje o las responsabilidades del trabajo hacen que no siempre sea posible. Mucho menos tomar una decisión tan grande como la de regresar a vivir a Puerto Rico.
-
-Tener la oportunidad de volver me ha permitido disfrutar de otra manera esos momentos que la distancia hacía tan difíciles de compartir.
+Poder estar aquí es un privilegio que reconozco y agradezco.
 
 Este año no tengo que contar los días que me quedan en la isla ni pensar en el vuelo de regreso.
 
