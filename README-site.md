@@ -1,0 +1,2 @@
+# Boriken with a Plan
+Jekyll site for GitHub Pages. Enable Pages from main / root. Domain mapping is a separate step. Articles go in _posts/YYYY-MM-DD-slug.md with YAML title, lang (en or es), and date. Drafts may live in _drafts but this public repository is not a private place to store unpublished writing. No analytics or newsletter provider is activated yet. Add original images under assets/images and use relative_url links.

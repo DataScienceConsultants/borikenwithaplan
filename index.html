@@ -1,0 +1,8 @@
+---
+layout: default
+title: Home
+lang: en
+---
+<section class="hero"><span class="eyebrow">A personal journal · Puerto Rico</span><h1>Coming home.<br>Keeping it real.</h1><p>After nearly 19 years away, I came back to Puerto Rico. I'm rediscovering the things I missed, adjusting to life on the island, and recognizing the privilege that made returning possible.</p><p>This is my experience, not a promise that everyone will experience Puerto Rico the same way.</p><a class="button" href="{{ '/about/' | relative_url }}">About this journal</a></section>
+<section><h2>Life back on the island</h2><div class="cards"><div class="card"><span class="eyebrow">Rediscovery</span><h3>The things I missed</h3><p>The everyday moments I get to enjoy again.</p></div><div class="card"><span class="eyebrow">Reality</span><h3>Living here, not vacationing here</h3><p>The adjustments, frustrations and contradictions of returning.</p></div><div class="card"><span class="eyebrow">Perspective</span><h3>Recognizing privilege</h3><p>Why my experience is not everyone's experience.</p></div></div></section>
+<section><h2>Latest journal entries</h2><div class="cards">{% assign entries = site.posts | where: "lang", "en" %}{% for post in entries limit: 3 %}<article class="card"><span class="eyebrow">{{ post.date | date: "%B %d, %Y" }}</span><h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3><p>{{ post.excerpt | strip_html | truncate: 180 }}</p></article>{% else %}<p>Journal entries are coming soon.</p>{% endfor %}</div><a href="{{ '/journal/' | relative_url }}">Explore the journal</a></section>

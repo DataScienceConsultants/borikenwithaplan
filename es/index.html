@@ -1,0 +1,6 @@
+---
+layout: default
+title: Inicio
+lang: es
+---
+<section class="hero"><span class="eyebrow">Un diario personal · Puerto Rico</span><h1>Regresar a casa.<br>Sin idealizarla.</h1><p>Después de casi 19 años fuera de Puerto Rico, regresé a la isla. Estoy redescubriendo las cosas que extrañaba, adaptándome a vivir aquí y reconociendo el privilegio que hizo posible mi regreso.</p><p>Esta es mi experiencia, no una promesa de que todos vivirán Puerto Rico de la misma manera.</p><a class="button" href="{{ '/es/about/' | relative_url }}">Sobre este diario</a></section><section><h2>Desde la isla</h2><div class="cards">{% assign entries = site.posts | where: "lang", "es" %}{% for post in entries %}<article class="card"><h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3><p>{{ post.excerpt | strip_html | truncate: 180 }}</p></article>{% else %}<p>Próximamente, nuevas historias.</p>{% endfor %}</div></section>
