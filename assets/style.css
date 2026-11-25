@@ -10,3 +10,6 @@ header{display:block;padding-top:28px;padding-bottom:18px;text-align:center}.mas
 
 /* Metallic silver editorial typography */
 :root{--ink:#e8e8e8;--muted:#bdbdbd;--silver:#d6d8dc}.brand,h1,h2,h3{color:var(--silver);background-image:linear-gradient(180deg,#fafafa 0%,#d7d9dd 29%,#959ba3 49%,#f4f5f6 68%,#b8bec5 100%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}nav a,.eyebrow{color:#c9cdd2}.button,.button:hover{background:linear-gradient(180deg,#f0f1f3 0%,#a7adb5 48%,#d9dde2 75%,#bfc4ca 100%);color:#101010;border:1px solid #d6d8dc}.brand:hover,h1 a:hover,h2 a:hover,h3 a:hover{color:var(--silver)}.card h2 a,.card h3 a{color:#e1e3e6;-webkit-text-fill-color:#e1e3e6}.card{border-top-color:#9299a1}.card:nth-child(3n){border-top-color:#9299a1}@media(forced-colors:active){.brand,h1,h2,h3{background:none;-webkit-text-fill-color:CanvasText;color:CanvasText}}
+
+/* Match the original logo's pure black background. */
+:root{--bg:#000000;--surface:#101010}body,header,.masthead,.endorsement{background-color:#000000}.endorsement img{background-color:#000000}
