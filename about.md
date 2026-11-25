@@ -1,21 +1,24 @@
 ---
 layout: default
-title: About
+title: About Me
 permalink: /about/
 lang: en
+description: The story behind Boriken with a Plan.
 ---
 <div class="prose" markdown="1">
 
-# About Boriken with a Plan
+# A little about me
 
-I returned to Puerto Rico in December 2025 after nearly 19 years living in the mainland United States. Coming home has given me the opportunity to rediscover things I missed and to experience the island again as a resident.
+I left Puerto Rico in January 2007. I lived in Missouri and later Arizona, and in December 2025, nearly 19 years after leaving, I moved back to the island.
 
-This journal is not about convincing anyone to move back or romanticizing island life. I want to share the things I enjoy, the frustrations I encounter, and what I am learning along the way.
+Living away changes your relationship with home. There are things you miss, things you get used to doing differently, and things you only begin to appreciate when you no longer have them around you. Coming back has given me the chance to experience Puerto Rico at my own pace again.
 
-I recognize that being able to return is a privilege. My circumstances affect how I experience life here, and what might be an inconvenience for me could be a serious hardship for someone else.
+The decision to return was something I planned for. I was fortunate to have options and resources that made it possible, and I know that isn't the case for everyone. Even something like a power outage can have very different consequences depending on what someone can afford to do about it.
 
-I can love Puerto Rico, enjoy being home, and still acknowledge why others choose to leave.
+There's a lot I want to explore here, from the everyday pleasures of living on the island to the practical decisions involved in moving back. Some days that might mean sharing a place I visited. Other days it might mean talking about something that frustrated me or made me reconsider an assumption.
 
-This is my experience of coming home.
+Boriken with a Plan grew out of From Puerto Rico, with Love, a space for staying connected to Puerto Rico wherever we happen to live. This time, I'm writing from the island itself.
+
+Thanks for being here.
 
 </div>
