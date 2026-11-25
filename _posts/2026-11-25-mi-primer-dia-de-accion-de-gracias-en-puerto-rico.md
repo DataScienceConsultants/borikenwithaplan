@@ -3,43 +3,43 @@ title: Mi primer Día de Acción de Gracias de vuelta en Puerto Rico
 layout: post
 lang: es
 date: 2026-11-25
-description: Después de casi 19 años fuera, celebro mi primer Día de Acción de Gracias en Puerto Rico con nuestras familias.
+description: Después de casi 19 años fuera, celebro mi primer Día de Acción de Gracias en Puerto Rico junto a nuestras familias.
 ---
-Para esta fecha, el año pasado, mi vida era completamente distinta.
+Por estas mismas fechas, hace un año, mi vida era completamente distinta.
 
-Después de casi 19 años viviendo fuera de Puerto Rico, por fin voy a celebrar mi primer Día de Acción de Gracias en la isla desde que me fui. Lo que lo hace aún más especial es que, por primera vez, podré celebrarlo tanto con mi familia como con la de mi esposo.
+Después de casi 19 años viviendo fuera de Puerto Rico, por fin celebraré mi primer Día de Acción de Gracias en la isla desde que me fui. Y si regresar ya era motivo de alegría, este año tengo una razón más para celebrarlo: por primera vez, compartiré este día tanto con mi familia como con la de mi esposo.
 
-Mi plan original era estar de vuelta en Puerto Rico para Acción de Gracias del año pasado. Sin embargo, nos invitaron al cumpleaños de un familiar en Colombia y decidimos hacer ese viaje, posponiendo nuestro regreso a la isla hasta diciembre.
+Originalmente, había planificado estar de vuelta en Puerto Rico para Acción de Gracias del año pasado. Sin embargo, nos invitaron al cumpleaños de un familiar en Colombia y decidimos aprovechar la oportunidad de hacer ese viaje antes de mudarnos. Nuestro regreso tendría que esperar hasta diciembre.
 
 {% assign birthday_photo = site.static_files | where: "path", "/assets/images/thanksgiving-colombia.jpg" | first %}
 {% if birthday_photo %}
 <figure style="max-width:480px;margin:2rem auto;text-align:center"><img src="{{ birthday_photo.path | relative_url }}" alt="Celebrando un cumpleaños en familia en Colombia, noviembre de 2025, a pocas semanas de mudarnos a Puerto Rico." style="width:100%;height:auto;display:block" loading="lazy"><figcaption style="font-size:.85rem;color:var(--muted);margin-top:.5rem">Celebrando un cumpleaños en familia en Colombia, noviembre de 2025, a pocas semanas de mudarnos a Puerto Rico.</figcaption></figure>
 {% endif %}
 
-Lo que siguió fueron algunas de las semanas más agotadoras de nuestra mudanza.
+Las semanas que siguieron fueron de las más agotadoras de toda la mudanza.
 
-Mudarnos de Arizona a Puerto Rico no fue tan sencillo como empacar unas maletas y montarnos en un avión. Tuvimos que coordinar con una compañía de transporte el envío de nuestras pertenencias, preparar nuestra salida y conducir de Arizona a Miami.
+Mudarnos de Arizona a Puerto Rico no era cuestión de hacer unas maletas y montarnos en un avión. Mientras la compañía de transporte recogía nuestras pertenencias para enviarlas a la isla, todavía nos quedaba organizar nuestra salida y recorrer buena parte de Estados Unidos, desde Arizona hasta Miami.
 
-Necesitábamos transportar nuestro carro, pero la razón principal por la que tuvimos que conducir hasta Miami fue Diamond, nuestra perrita. Debido a las restricciones para viajar con ella, salir de Miami era nuestra opción viable.
+Teníamos que enviar nuestro carro a Puerto Rico, pero la verdadera razón por la que decidimos hacer ese recorrido fue Diamond, nuestra perrita. Por las restricciones que enfrentábamos para viajar con ella, Miami era nuestra opción para poder volar juntos a la isla.
 
-Había tantas cosas que coordinar y parecía que todo estaba pasando a la misma vez. Por más que me emocionaba regresar a Puerto Rico, el proceso fue agotador. El 13 de diciembre de 2025, después de casi 19 años viviendo fuera de la isla, finalmente regresé.
+Entre cajas, trámites y decisiones, los días parecían no dar abasto. Por mucha ilusión que me hiciera regresar, no dejaba de sentir el agotamiento de todo lo que implicaba la mudanza. Finalmente, el 13 de diciembre de 2025, regresé a Puerto Rico.
 
-Este año, en lugar de estar coordinando envíos, empacando cajas o resolviendo la logística del viaje, puedo pasar Acción de Gracias con nuestras familias.
+Hoy, casi un año después, en lugar de estar pendiente de los envíos, empacando cajas o resolviendo cómo llegar a la isla, me preparo para compartir Acción de Gracias con nuestras familias.
 
-Durante los años que viví fuera de Puerto Rico, compartir con mi familia muchas veces implicaba coordinar horarios de trabajo, comprar pasajes y tratar de aprovechar al máximo los pocos días que tenía en la isla.
+Durante todos esos años que viví fuera, compartir con mi familia significaba muchas veces organizar mis vacaciones alrededor de los días que podía pasar en Puerto Rico, comprar pasajes y tratar de aprovechar cada momento antes de tener que irme nuevamente.
 
-Ahora, reunirnos no tiene que implicar un vuelo ni pedir días libres específicamente para viajar. Es uno de esos cambios que quizás parezcan insignificantes para alguien que siempre ha vivido cerca de su familia, pero que para mí significan mucho.
+Ahora, para reunirnos, ya no tengo que montarme en un avión ni pedir días libres para viajar. Quizás para quien siempre ha vivido cerca de su familia eso sea algo cotidiano. Para mí, tiene otro significado.
 
-También reconozco que estar en esta posición es un privilegio. Muchos puertorriqueños que viven fuera quisieran pasar las festividades con sus familias, pero no siempre pueden costear los pasajes, ausentarse del trabajo o hacer los ajustes económicos y profesionales que requeriría una mudanza.
+También soy consciente del privilegio que supone poder estar aquí. Hay muchos boricuas que quisieran pasar estas fechas junto a sus seres queridos, pero para quienes el costo de un pasaje o las responsabilidades del trabajo hacen que no siempre sea posible. Mucho menos tomar una decisión tan grande como la de regresar a vivir a Puerto Rico.
 
-Tener la oportunidad de regresar ha cambiado la manera en que disfruto estas ocasiones.
+Tener la oportunidad de volver me ha permitido disfrutar de otra manera esos momentos que la distancia hacía tan difíciles de compartir.
 
-Este año no tengo que contar cuántos días me quedan en Puerto Rico antes de tomar un vuelo de regreso.
+Este año no tengo que contar los días que me quedan en la isla ni pensar en el vuelo de regreso.
 
-Simplemente estoy aquí.
+Esta vez, ya estoy en casa.
 
-Y por eso, entre tantas otras cosas, estoy agradecida.
+Y entre tantas razones para dar gracias, esa tiene un significado muy especial para mí.
 
-¡Feliz Día de Acción de Gracias a todos los boricuas que lo celebran, dondequiera que estén! 🇵🇷
+¡Feliz Día de Acción de Gracias a todos los boricuas que lo celebran, estén donde estén! 🇵🇷
 
 [Read in English]({{ '/journal/my-first-thanksgiving-back-in-puerto-rico/' | relative_url }})
