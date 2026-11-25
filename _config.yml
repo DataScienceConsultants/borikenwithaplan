@@ -1,0 +1,17 @@
+title: Boriken with a Plan
+description: A personal journal about returning to Puerto Rico, without romanticizing home.
+url: "https://borikenwithaplan.com"
+baseurl: ""
+markdown: kramdown
+permalink: /journal/:title/
+timezone: America/Puerto_Rico
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      lang: en
