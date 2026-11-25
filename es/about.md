@@ -3,19 +3,22 @@ layout: default
 title: Sobre mí
 lang: es
 permalink: /es/about/
+description: La historia detrás de Boriken with a Plan.
 ---
 <div class="prose" markdown="1">
 
-# Sobre Boriken with a Plan
+# Un poco sobre mí
 
-Regresé a Puerto Rico en diciembre de 2025, después de casi 19 años viviendo en Estados Unidos continental. Volver me ha dado la oportunidad de redescubrir las cosas que extrañaba y vivir la isla nuevamente como residente.
+Me fui de Puerto Rico en enero de 2007. Viví en Missouri y luego en Arizona. En diciembre de 2025, casi 19 años después de haberme ido, regresé a vivir a la isla.
 
-Este diario no pretende convencer a nadie de regresar ni idealizar la vida aquí. Quiero compartir lo que disfruto, lo que me frustra y lo que voy aprendiendo.
+Vivir fuera cambia nuestra relación con Puerto Rico. Hay cosas que extrañamos, otras que nos acostumbramos a hacer de manera distinta y algunas que comenzamos a apreciar precisamente porque ya no las tenemos cerca. Ahora tengo la oportunidad de disfrutar la isla nuevamente a mi ritmo.
 
-Reconozco que poder regresar es un privilegio. Mis circunstancias influyen en mi experiencia. Lo que para mí puede ser un inconveniente, para otra persona puede ser una dificultad significativa.
+Mi regreso fue una decisión que pude planificar. Tuve la suerte de contar con opciones y recursos que lo hicieron posible, y sé que no todo el mundo tiene esas mismas oportunidades. Algo tan común como un apagón puede tener consecuencias muy distintas dependiendo de los recursos con los que cuente cada persona.
 
-Puedo amar a Puerto Rico y disfrutar estar aquí sin ignorar las razones por las cuales otros deciden irse.
+Hay mucho que quiero compartir por aquí, desde las cosas cotidianas que disfruto hasta las decisiones prácticas que conlleva regresar. Habrá días en los que les hablaré de algún lugar que visité y otros en los que compartiré alguna frustración o algo que me haya hecho cuestionar mi forma de pensar.
 
-Esta es mi experiencia de regresar a casa.
+Boriken with a Plan nace de From Puerto Rico, with Love, un espacio para mantener nuestra conexión con Puerto Rico, sin importar dónde vivamos. Esta vez, les escribo desde la isla.
+
+Gracias por acompañarme.
 
 </div>
