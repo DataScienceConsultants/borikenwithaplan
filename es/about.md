@@ -3,7 +3,7 @@ layout: default
 title: Sobre mí
 lang: es
 permalink: /es/about/
-description: La historia detrás de Boriken with a Plan.
+description: La historia detrás de Borikén with a Plan.
 ---
 <div class="prose" markdown="1">
 
@@ -17,7 +17,7 @@ Mi regreso fue una decisión que pude planificar. Tuve la suerte de contar con o
 
 Hay mucho que quiero compartir por aquí, desde las cosas cotidianas que disfruto hasta las decisiones prácticas que conlleva regresar. Habrá días en los que les hablaré de algún lugar que visité y otros en los que compartiré alguna frustración o algo que me haya hecho cuestionar mi forma de pensar.
 
-Boriken with a Plan nace de From Puerto Rico, with Love, un espacio para mantener nuestra conexión con Puerto Rico, sin importar dónde vivamos. Esta vez, les escribo desde la isla.
+Borikén with a Plan nace de From Puerto Rico, with Love, un espacio para mantener nuestra conexión con Puerto Rico, sin importar dónde vivamos. Esta vez, les escribo desde la isla.
 
 Gracias por acompañarme.
 
